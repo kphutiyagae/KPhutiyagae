@@ -1,7 +1,7 @@
 # Kopano Phutiyagae
 
 # 👨‍🎓 Who am I
-- 3rd Year BSc. Computer Science Student at University of Pretoria.
+- Final Year BSc. Computer Science Student at University of Pretoria.
 
 # 🔧 Skills
 - Database development
